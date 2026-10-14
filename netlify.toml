@@ -1,0 +1,4 @@
+[build]
+  # Static HTML site served straight from the repository root (no build step)
+  base = "."
+  publish = "."
